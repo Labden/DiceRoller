@@ -1,0 +1,13 @@
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\bin\Debug\netcoreapp3.1\GrandCircusCasino.exe
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\bin\Debug\netcoreapp3.1\GrandCircusCasino.deps.json
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\bin\Debug\netcoreapp3.1\GrandCircusCasino.runtimeconfig.json
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\bin\Debug\netcoreapp3.1\GrandCircusCasino.runtimeconfig.dev.json
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\bin\Debug\netcoreapp3.1\GrandCircusCasino.dll
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\bin\Debug\netcoreapp3.1\GrandCircusCasino.pdb
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\obj\Debug\netcoreapp3.1\GrandCircusCasino.csprojAssemblyReference.cache
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\obj\Debug\netcoreapp3.1\GrandCircusCasino.AssemblyInfoInputs.cache
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\obj\Debug\netcoreapp3.1\GrandCircusCasino.AssemblyInfo.cs
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\obj\Debug\netcoreapp3.1\GrandCircusCasino.csproj.CoreCompileInputs.cache
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\obj\Debug\netcoreapp3.1\GrandCircusCasino.dll
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\obj\Debug\netcoreapp3.1\GrandCircusCasino.pdb
+C:\Users\Labden\source\repos\GrandCircusCasino\GrandCircusCasino\obj\Debug\netcoreapp3.1\GrandCircusCasino.genruntimeconfig.cache
